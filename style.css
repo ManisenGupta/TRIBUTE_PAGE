@@ -1,0 +1,28 @@
+body{
+    margin: 20%;
+}
+div#title{
+    text-align: center;
+    text-shadow: 5px 5px 10px;
+    font-size: 3vh;
+}
+#img{
+    display: inline-block;
+    width: 100%;
+
+}
+#title-legend{
+    text-align: center;
+    margin: 5px 5px 10 px;
+    text-shadow: 5px 5px 10px rgb(245, 249, 250);
+
+    
+}
+#bodybox{
+    background-color: rgb(48, 189, 118);
+    box-shadow: 20px 20px 20px lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px 25px;
+    margin: 20px;
+    margin-top: 50px;
+}
